@@ -1,0 +1,6 @@
+logs/
+*.pkl
+*.h5
+*.csv
+*.npz
+*.gz
